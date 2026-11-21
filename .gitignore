@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+data/drawings/
+data/extractions*.json
+*.log
+.pytest_cache/
